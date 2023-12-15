@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrijalazic&label=Profile%20views&color=0e75b6&style=flat" alt="andrijalazic" /> </p>
 
-- 🔭 I’m currently working on [GundraBot](https://github.com/AndrijaLazic/GundraBot)
+- 🔭 I’m currently working on [EzDeals](https://github.com/AndrijaLazic/EzDeals) 
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndrijaLazic](https://github.com/AndrijaLazic)
 
